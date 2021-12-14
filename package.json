@@ -1,0 +1,24 @@
+{
+  "name": "react-small-font",
+  "version": "0.0.1",
+  "description": "react small font",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hulk4fe/react-small-font.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "font"
+  ],
+  "author": "hulk4fe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hulk4fe/react-small-font/issues"
+  },
+  "homepage": "https://github.com/hulk4fe/react-small-font#readme"
+}
